@@ -50,7 +50,7 @@ gsort -price, generate(orden_precio) mfirst
 tabulate pesado foreign if price > 4000, row col
 
 *12 tabla nacionales-extranjeros precio y peso  
-table foreign, c(mean price mean peso sd price sd peso) 
+table foreign, c(mean precio_miles mean peso sd precio_miles sd peso) 
 
 *13 scatter
 graph twoway (scatter precio_miles peso, ///
