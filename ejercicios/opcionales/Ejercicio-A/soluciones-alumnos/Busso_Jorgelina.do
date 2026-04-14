@@ -1,3 +1,8 @@
+**************************
+*TP1 Instrumentos computacionales
+*Busso Jorgelina
+**************************
+
 clear all
 set more off
 
