@@ -2,7 +2,7 @@
 ![Logo](logo_meunlp.webp)
 # Instrumentos Computacionales
 
-¡Bienvenidos y bienvenidas! 🎉
+## ¡Bienvenidos y bienvenidas! 🎉
 
 Este es el repositorio oficial de la parte de **Stata** del **Seminario de Instrumentos Computacionales** de la Maestría en Economía de la Universidad Nacional de La Plata.
 
@@ -23,9 +23,10 @@ Nos alegra tenerte por acá. Este espacio fue pensado para acompañarte a lo lar
 Materiales complementarios para profundizar los temas del curso.
 
 ### 🔗 Repositorios:
-
-- [asjadnaqvi](https://github.com/asjadnaqvi/The-Stata-Guide) - Comandos y paquetes muy útiles, sobre todo para gráficos.
-- [Curso Git](https://github.com/mouredev/hello-git) - Lecciones para aprender a trabajar con Git.
+> [!TIP]
+>
+> - [asjadnaqvi](https://github.com/asjadnaqvi/The-Stata-Guide) - Comandos y paquetes muy útiles, sobre todo para gráficos.
+> - [Curso Git](https://github.com/mouredev/hello-git) - Lecciones para aprender a trabajar con Git.
   
 ### 🎥 Videos
 
@@ -44,6 +45,14 @@ Algunos videos recomendados en YouTube:
   
 
 
+
+---
+
+## ⭐ ¿Te resultó útil?
+
+Si este repositorio te ayudó en algo, ¡dejanos una **estrella**! Es gratis y nos alegra saber que el material te sirvió. 😊
+
+[![GitHub stars](https://img.shields.io/github/stars/santiagocerutti/instrumentos-computacionales?style=social)](https://github.com/santiagocerutti/instrumentos-computacionales/stargazers)
 
 
 
